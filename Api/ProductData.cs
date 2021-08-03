@@ -1,4 +1,5 @@
-﻿using Data;
+﻿
+using Data;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -36,6 +37,34 @@ namespace Api
             {
                 Id = 30,
                 Name = "Apples",
+                Description = "Bag of 7 fresh McIntosh apples",
+                Quantity = 1
+            },
+            new Product
+            {
+                Id = 30,
+                Name = "Pears",
+                Description = "Bag of 7 fresh McIntosh apples",
+                Quantity = 1
+            },
+            new Product
+            {
+                Id = 30,
+                Name = "Tomatoes",
+                Description = "Bag of 7 fresh McIntosh apples",
+                Quantity = 1
+            },
+            new Product
+            {
+                Id = 30,
+                Name = "Cucumbers",
+                Description = "Bag of 7 fresh McIntosh apples",
+                Quantity = 1
+            },
+            new Product
+            {
+                Id = 30,
+                Name = "Nuts",
                 Description = "Bag of 7 fresh McIntosh apples",
                 Quantity = 1
             }
